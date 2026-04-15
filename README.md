@@ -1,16 +1,24 @@
-## Hi there 👋
+## Hi there, my name is Iago 👋
 
-<!--
-**iagoxxpro1/iagoxxpro1** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+💼 Financial | 📍 Campinas, SP Brazil
+🏢 Financial Assistent at Alaite Imobiliária
 
-Here are some ideas to get you started:
+## About me
+Proactive financial and data professional with 6 years of experience in accounting, currently expanding into business intelligence and process automation. I structure financial reports, build dashboards, and create Excel and VBA automations to support decision-making. I have developed Python scripts and API integrations using AI as a tool — no formal programming background required. I learn fast, work independently, and turn complex problems into clear, practical solutions. Looking for roles in financial analysis or data analytics where curiosity and autonomy are valued.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🛠️ Tecnologias & Ferramentas
+![Python](https://img.shields.io/badge/-Python-333?style=flat&logo=python)
+![JavaScript](https://img.shields.io/badge/-JavaScript-333?style=flat&logo=javascript)
+![Excel](https://img.shields.io/badge/-Excel-333?style=flat&logo=microsoftexcel)
+<!-- adicione as que você usa -->
+
+## 📊 Estatísticas do GitHub
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+
+## 📌 Projetos em Destaque
+- 🔗 [Nome do Projeto](link-do-repositório) — breve descrição
+- 🔗 [Nome do Projeto](link-do-repositório) — breve descrição
+
+## 📫 Contato
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](link-do-seu-linkedin)
