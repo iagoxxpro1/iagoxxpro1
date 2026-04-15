@@ -22,3 +22,4 @@ Proactive financial and data professional with 6 years of experience in accounti
 
 ## 📫 Contato
 [![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](linkedin.com/in/iago-rubiar/)
+[![Whatsapp](link da imagem)](http://wa.me/19990062646)
