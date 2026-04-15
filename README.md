@@ -13,12 +13,12 @@ Proactive financial and data professional with 6 years of experience in accounti
 <!-- adicione as que você usa -->
 
 ## 📊 Estatísticas do GitHub
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=SEU_USUARIO&show_icons=true&theme=dark)
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=SEU_USUARIO&layout=compact&theme=dark)
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=iagoxxpro1&show_icons=true&theme=dark)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=iagoxxpro1&layout=compact&theme=dark)
 
 ## 📌 Projetos em Destaque
 - 🔗 [Nome do Projeto](link-do-repositório) — breve descrição
 - 🔗 [Nome do Projeto](link-do-repositório) — breve descrição
 
 ## 📫 Contato
-[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](link-do-seu-linkedin)
+[![LinkedIn](https://img.shields.io/badge/-LinkedIn-0077B5?style=flat&logo=linkedin)](linkedin.com/in/iago-rubiar/)
